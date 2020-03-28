@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Grassland
+comment0.text=\r\n\ Holds\ information\ for\ a\ Grassland\r\n\r\n\ @author\ Sarkisyan\ C.\r\n\ @version\ 1\:25\:20\r\n
+comment1.params=
+comment1.target=Grassland()
+comment2.params=
+comment2.target=boolean\ searchLumber()
+comment3.params=
+comment3.target=boolean\ searchCoal()
+numComments=4

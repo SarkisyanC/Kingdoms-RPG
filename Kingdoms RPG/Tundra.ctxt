@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tundra
+comment0.text=\r\n\ Holds\ information\ for\ a\ Tundra\r\n\r\n\ @author\ Sarkisyan\ C.\r\n\ @version\ 1\:25\:20\r\n
+comment1.params=
+comment1.target=Tundra()
+comment2.params=
+comment2.target=boolean\ searchGold()
+comment3.params=
+comment3.target=boolean\ searchFurs()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Forest
+comment0.text=\r\n\ Holds\ information\ for\ a\ Forest\r\n\r\n\ @author\ Sarkisyan\ C.\r\n\ @version\ 1\:25\:20\r\n
+comment1.params=
+comment1.target=Forest()
+comment2.params=
+comment2.target=boolean\ searchFertileLand()
+comment3.params=
+comment3.target=boolean\ searchIron()
+numComments=4

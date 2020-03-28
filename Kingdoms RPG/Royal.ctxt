@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Royal
+comment0.text=\r\nThe\ class\ that\ accesses\ diffrent\ royal\ types\r\n\ @author\ Sarkisyan_C\r\n\ @version\ 1\:24\:20\r\n
+comment1.params=inType\ inName\ inDescription
+comment1.target=Royal(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getRoyalType()
+numComments=3

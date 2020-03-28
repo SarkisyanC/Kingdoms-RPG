@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Kingdom
+comment0.text=\r\n\ Creates\ a\ Kingdom\r\n\ @author\ Sarkisyan_C\r\n\ @version\ 1\:25\:20\r\n
+comment1.params=userKingdomNum
+comment1.target=Kingdom(int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getKingdomNum()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=kingdomNum
+comment5.target=void\ addTerritory(int)
+comment6.params=type
+comment6.target=void\ addCitizen(java.lang.String)
+numComments=7

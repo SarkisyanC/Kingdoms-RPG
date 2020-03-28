@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Makes\ main\ characters\ in\ the\ game.\r\n\ @author\ Sarkisyan_C\r\n\ @version\ 1\:24\:20\r\n
+comment1.params=userName
+comment1.target=Player(java.lang.String)
+comment2.params=name
+comment2.target=void\ changeName(java.lang.String)
+comment3.params=userKingdom
+comment3.target=void\ setKingdom(Kingdom)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

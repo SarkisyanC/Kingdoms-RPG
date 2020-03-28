@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Mage
+comment0.text=\r\n\ The\ class\ that\ makes\ a\ Mage.\r\n\r\n\ @author\ Sarksiyan_C\r\n\ @version\ 1\:24\:20\r\n
+comment1.params=inName\ inDescription\ inSkills
+comment1.target=Mage(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2

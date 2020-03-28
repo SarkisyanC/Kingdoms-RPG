@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Knight
+comment0.text=\r\n\ The\ class\ that\ makes\ a\ Knight\r\n\r\n\ @author\ Sarkisyan_C\r\n\ @version\ 1\:22\:20\r\n
+comment1.params=inName\ inDescription\ inWeapons\ inSkills
+comment1.target=Knight(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
